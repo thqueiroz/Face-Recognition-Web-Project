@@ -4,7 +4,7 @@
 </h3>
 
 <h1 align="center">
-  <img alt="Face recognition web" title="Face Recognition web" src="./readme.png" width="300px" />
+  <img alt="Face recognition web" title="Face Recognition web" src="./readme.png" width="600px" />
 </h1>
 
 This project was created in order to use possible methods of doing facial recognition in low web, integration, with learning curve with easy access to the end user.
